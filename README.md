@@ -39,4 +39,5 @@ plt.savefig('../fig/ppg_pairs.png')
 The test dataset including 2000 PPG pairs with identity labels is open for benchmarking PPG Authentication algorithms.
 The whole training dataset is accessible by application. (Agreement coming soon)
 
-
+## 📄 Citation
+Citation is coming soon.
